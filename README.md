@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Node%2EJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/%2ENET-512BD4?style=flat-square&logo=ASP.NET&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white">
-<img src="https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logo=MonoGame&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=MSSQL&logoColor=white">
+<img src="https://img.shields.io/badge/MonoGames-E73C00?style=flat-square&logo=MonoGame&logoColor=white">
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white">
 </div>
 
