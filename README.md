@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node%2EJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/%2ENET-512BD4?style=for-the-badge&logo=NET&logoColor=white">
+<img src="https://img.shields.io/badge/%2ENET-512BD4?style=flat-square&logo=Node.js&logoColor=white">
 </div>
 
 <br><br>
