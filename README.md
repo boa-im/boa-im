@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>:wave:Hello everyone:wave:</h3> 
-  My name is Boa Im. I'm looking for a co-op job for 16 months starting May 2022.<br>
+  My name is Boa Im. I'm looking for a co-op job for 16 months starting May 2023.<br>
   There are my projects using many languages in the repositories. Please check and contact me!
 </div>
 <br><br>
