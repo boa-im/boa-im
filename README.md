@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>:wave:Hello everyone:wave:</h3> 
-  My name is Boa Im. I'm looking for a co-op job for 12 months starting September 2023.<br>
+  My name is Boa Im. I'm looking for a full time job starting May 2024.<br>
   There are my projects using many languages in the repositories. Please check and contact me!<br>
   <br>You can see my website here!
   <a type="button" href="https://boa-im.github.io" style="border: none; background-color: pink">Click Here</a>
