@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>:wave:Hello everyone:wave:</h3> 
-  My name is Boa Im. I'm looking for a full time job starting May 2024.<br>
+  My name is Boa Im. I'm looking for a full-time position as a software developer starting as soon as possible.<br>
   There are my projects using many languages in the repositories. Please check and contact me!<br>
   <br>You can see my website here!
   <a type="button" href="https://boa-im.github.io" style="border: none; background-color: pink">Click Here</a>
@@ -29,7 +29,7 @@
 
 <div align="center">
   <h3>🍒Me🍒</h3>
-  <a href="https://www.instagram.com/it_is_canada_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/it_is_canada_"/></a>
+  <a href="https://www.instagram.com/it_is_canada_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_see_mi"/></a>
   <a href="mailto:qhdk15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qhdk15@gmail.com"/></a>
   <a href="mailto:bim1777@conestogac.on.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white&link=mailto:bim1777@conestogac.on.ca"/></a>
 </div>
