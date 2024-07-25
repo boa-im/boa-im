@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boa%20Im&fontSize=90&animation=fadeIn)
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=:wave:Hello everyone:wave:;Welcome to Boa's GitHub)](https://git.io/typing-svg)
 <div align="center">
-  <h3>:wave:Hello everyone:wave:</h3> 
   My name is Boa Im. I'm looking for a full-time position as a software developer starting as soon as possible.<br>
   There are my projects using many languages in the repositories. Please check and contact me!<br>
   <br>You can see my website here!
