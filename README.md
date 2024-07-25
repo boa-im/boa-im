@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boa%20Im&fontSize=90&animation=fadeIn)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD5FF7&background=91899300&center=true&width=435&lines=👋Hello+everyone👋" alt="Typing SVG" /></a><br>
+👋<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD5FF7&background=91899300&center=true&width=435&lines=Hello+everyone" alt="Typing SVG" /></a>👋<br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E49BE&background=91899300&center=true&width=435&lines=Welcome+to+Boa's+GitHub" alt="Typing SVG" /></a>
 </div>
 <div align="center">
