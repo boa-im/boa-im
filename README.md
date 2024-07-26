@@ -2,7 +2,7 @@
 
 <div align="center">
   <H1>👋Hello everyone👋</H1>
-  My name is Boa Im. I'm looking for a full-time position as a software developer starting as soon as possible.<br>
+  My name is Boa Im. I'm looking for a full-time position as a software developer.<br>
   There are my projects using many languages in the repositories. Please check and contact me!<br>
   <br>You can see my website here!
   <a type="button" href="https://boa-im.github.io" style="border: none; background-color: pink">Click Here</a>
